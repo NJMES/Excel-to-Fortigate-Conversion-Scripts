@@ -1,0 +1,68 @@
+# Sheet1
+edit XXT4IDCMS01_x.a.33.11
+set subnet x.a.33.11
+next
+edit XX01T1CFW01_x.a.2.15 
+set subnet x.a.2.15 
+next
+edit XX02T1CFW02_x.a.2.16
+set subnet x.a.2.16
+next
+edit XX00T1CFW_VIP_x.a.2.17 
+set subnet x.a.2.17 
+next
+edit XX03T3CFW01_x.a.5.13
+set subnet x.a.5.13
+next
+edit XX04T3CFW02_x.a.5.14 
+set subnet x.a.5.14 
+next
+edit XX00T3CFW_VIP_x.a.5.15
+set subnet x.a.5.15
+next
+edit XX05T1CFW01_x.a.2.18
+set subnet x.a.2.18
+next
+edit XX05T1CFW02_x.a.2.19
+set subnet x.a.2.19
+next
+edit XX06T1CFW01_x.a.2.20
+set subnet x.a.2.20
+next
+edit XX06T1CFW02_x.a.2.21
+set subnet x.a.2.21
+next
+# Sheet2
+edit XXT4IDCMS01_x.a.33.11
+set subnet x.a.33.11
+next
+edit XX01T1CFW01_x.a.2.15 
+set subnet x.a.2.15 
+next
+edit XX02T1CFW02_x.a.2.16
+set subnet x.a.2.16
+next
+edit XX00T1CFW_VIP_x.a.2.17 
+set subnet x.a.2.17 
+next
+edit XX03T3CFW01_x.a.5.13
+set subnet x.a.5.13
+next
+edit XX04T3CFW02_x.a.5.14 
+set subnet x.a.5.14 
+next
+edit XX00T3CFW_VIP_x.a.5.15
+set subnet x.a.5.15
+next
+edit XX05T1CFW01_x.a.2.18
+set subnet x.a.2.18
+next
+edit XX05T1CFW02_x.a.2.19
+set subnet x.a.2.19
+next
+edit XX06T1CFW01_x.a.2.20
+set subnet x.a.2.20
+next
+edit XX06T1CFW02_x.a.2.21
+set subnet x.a.2.21
+next
